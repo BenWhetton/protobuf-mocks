@@ -5,7 +5,7 @@ from example_pb2 import A
 
 def main():
     a = Mock(A)
-    print(a.a)
+    print(a.b)
 
 
 if __name__ == '__main__':
